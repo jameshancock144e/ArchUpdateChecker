@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aucp"
-version = "1.6.0"
+version = "1.6.1"
 description = "GUI prompter for auc. It's probably really bad."
 authors = ["Lucy Hancock <lucy@leh.dev>"]
 readme = "README.md"

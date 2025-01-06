@@ -1,7 +1,7 @@
 _name="aucp"
 pkgname="aucp"
-pkgver=1.6.0
-pkgrel=0
+pkgver=1.6.1
+pkgrel=1
 pkgdesc="A tool for checking for pacman based distro updates. It's probably really bad."
 arch=('x86_64')
 url="https://github.com/lucyhancock3533/ArchUpdateChecker"
